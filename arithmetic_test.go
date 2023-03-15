@@ -1,4 +1,4 @@
-package mylibrary_test
+package mathy_test
 
 import (
 	"testing"
